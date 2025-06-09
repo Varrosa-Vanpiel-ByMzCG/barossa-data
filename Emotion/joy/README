@@ -1,8 +1,13 @@
-# Emotion - Joy（喜び）
+# Emotion – Joy（喜び）
+
+This folder contains expressions of "joy" categorized by intensity and type.  
+Each subfolder represents a level of joyful expression (Lv1 to Lv3).
+
+---
 
 このフォルダは「喜び」カテゴリの感情表現です。  
 それぞれのサブフォルダは、喜びの強度（Lv1〜Lv3）とタイプに応じて分類されています。
 
-- Lv1: 微笑み・さりげない喜び
-- Lv2: 明るく自然な笑顔
+- Lv1: 微笑み・さりげない喜び  
+- Lv2: 明るく自然な笑顔  
 - Lv3: 感情が溢れるような強い喜び
